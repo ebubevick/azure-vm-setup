@@ -34,7 +34,7 @@ For a visual guide on how to accomplish this using the Azure Portal, you can che
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/ebubevick/azure-vm-setup.git
     ```
 
 2. **Navigate to the directory**:
@@ -56,7 +56,7 @@ For a visual guide on how to accomplish this using the Azure Portal, you can che
 ## Structure
 
 ```plaintext
-.
+
 ├── bastion-host.tf
 ├── load-balancer-setup.tf
 ├── main-config.tf
