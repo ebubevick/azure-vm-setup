@@ -39,7 +39,7 @@ For a visual guide on how to accomplish this using the Azure Portal, you can che
 
 2. **Navigate to the directory**:
     ```sh
-    cd your-repo
+    cd  azure-vm-setup
     ```
 
 3. **Initialize Terraform**:
